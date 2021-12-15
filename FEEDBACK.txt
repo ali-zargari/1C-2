@@ -1,0 +1,25 @@
+FEEDBACK:
+
+Excellent implementation of the findSubset() method.
+
+
++0.5 Excellent documentation of your source code.
+
+
+Extra Credit Opportunity:
++2 Creative update to findSubset() for SongEntry type using bitwise 
+   operation to handle a larger dataset!
+
++2.5 Excellent testing of findSubset() method especially in clarifying 
+    the purpose of each test case in your RUN.txt file.
+	Indeed it is challenging not to find an exact match given
+	this input set.
+	
+-Bita.
+
+
+
+sample output 1:
+Enter the duration of your playlist (in ms):
+Target length entered: 44.0
+// Note: Does not complete in a reasonable amount of time.
